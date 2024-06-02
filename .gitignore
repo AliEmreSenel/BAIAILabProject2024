@@ -1,3 +1,4 @@
 Data/
 runs/
+models/
 *.checkpoint
